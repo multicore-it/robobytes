@@ -1,0 +1,2 @@
+binance_d
+binance_f
