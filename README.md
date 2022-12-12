@@ -1,4 +1,4 @@
-<img src="http://image.yes24.com/goods/98859577/800x0" width="188" height="240">
+<img src="http://image.yes24.com/goods/116195340/XL" width="188" height="240">
  
 ## `비트코인 선물거래 자동매매 시스템` `도서`와 `온라인강의` 소스코드를 제공하는 사이트입니다.
  
@@ -6,7 +6,7 @@
 * python3.7.7
  
  
-## 도서는 [Yes24](http://image.yes24.com/goods/116195340/XL) 에서 구입할 수 있습니다.
+## 도서는 [Yes24](http://www.yes24.com/Product/Goods/116195340) 에서 구입할 수 있습니다.
 ## 동영상 강의는 [인프런](https://inf.run/DZiA) 에서 들을 수 있습니다.
 ## 동영상 강의에는 튜닝 코드와 더블어 다양한 알고리즘이 들어 있습니다.
 
