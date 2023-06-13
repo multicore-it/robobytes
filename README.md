@@ -90,6 +90,7 @@
 
 * 11장 바이낸스 오픈 API
 	- 11.1. 바이낸스 퓨쳐스 파이썬 설치하기 
+	  다음 링크를 참조하여 패키지를 설치하세요 https://github.com/multicore-it/robobytes/blob/main/Binance_Futures_python-master.zip
 	- 11.2. 오픈 API 인증키 발급
 	- 11.3. 주문 오픈 API 사용하기
 	- 11.4. 조회 및 취소 오픈 API 사용하기
