@@ -4,7 +4,7 @@ class Balance:
         self.asset = ""
         self.accountAlias = ""
         self.balance = 0.0
-        self.withdrawAvailable = 0.0
+        self.availableBalance = 0.0
 
     @staticmethod
     def json_parse(json_data):
@@ -12,6 +12,6 @@ class Balance:
         result.asset = json_data.get_string("asset")
         result.accountAlias = json_data.get_string("accountAlias")
         result.balance = json_data.get_float("balance")
-        result.withdrawAvailable = json_data.get_float("withdrawAvailable")
+        result.availableBalance = json_data.get_float("availableBalance")
 
         return result
