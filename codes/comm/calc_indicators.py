@@ -37,8 +37,11 @@ def get_rsi(close, period):
 
 # StochRSI
 def get_stochRSI(close, period, period_s1, period_s2):
-    df_srsi = StochRSIIndicator(close, window=period, smooth1=period_s1, smooth2=period_s2)
-    return df_srsi
+    stochRSI = StochRSIIndicator(close, window=period, smooth1=period_s1, smooth2=period_s2)
+    df_srsi = stochRSI.stochrsi()
+    df_srsik = stochRSI.stochrsi_k()
+    df_srsid = stochRSI.stochrsi_d()
+    return df_srsi, df_srsik, df_srsid
 
 # Bollinger Bands
 def get_bb(close, period, period_dev):
