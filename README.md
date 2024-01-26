@@ -1,3 +1,16 @@
+바이낸스 오픈 API 공식적인 지원이 종료되었습니다.
+
+https://github.com/multicore-it/robobytes/blob/main/Binance_Futures_python-master.zip
+
+파일을 다운로드 받아서 테스트를 진행하시면 됩니다. 
+
+혹시, 테스트 중 오류가 발생하면 이메일 주세요. 
+
+multicore-it@gmail.com
+
+감사합니다.
+
+
 <img src="http://image.yes24.com/goods/116195340/XL" width="188" height="240">
  
 ## `비트코인 선물거래 자동매매 시스템` `도서`와 `온라인강의` 소스코드를 제공하는 사이트입니다.
