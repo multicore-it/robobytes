@@ -6,7 +6,7 @@ https://github.com/multicore-it/robobytes/blob/main/Binance_Futures_python-maste
 
 혹시, 테스트 중 오류가 발생하면 이메일 주세요. 
 
-multicore-it@gmail.com
+multicore.it@gmail.com
 
 감사합니다.
 
